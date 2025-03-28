@@ -1,6 +1,6 @@
 # Asthma Prediction App
 
-This is a Kotlin Multiplatform Mobile (KMM) Android app that collects user lifestyle and demographic data via a questionnaire and predicts the likelihood of asthma using a machine learning model.
+This is a Kotlin Multiplatform Mobile (KMM) Android app that collects user lifestyle and demographic data and predicts the likelihood of asthma using a machine learning model namely Gradient Boosted Decision Tree (GBDT).
 
 ## 💡 Features
 
@@ -22,7 +22,11 @@ This is a Kotlin Multiplatform Mobile (KMM) Android app that collects user lifes
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/asthma-prediction-app.git
-    cd asthma-prediction-app
+
+2. Goes to the folder
+    ```bash
+   cd asthma-prediction-app
+    
 2. Make sure you have:
 Android Studio Electric Eel or later
 Kotlin Multiplatform plugin enabled
